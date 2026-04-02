@@ -9,7 +9,9 @@ This repository contains the activities for **Application Development and Emergi
 - `Activity2/` – PHP activity with images, Bootstrap, and custom assets  
 - `Activity3/` – PHP activity  
 - `Activity4/` – PHP activity  
-- `Activity5/` – PHP activity  
+- `Activity5/` – PHP activity
+- `Activity6/` – PHP activity
+- `Activity7/` – PHP activity
 
 Each activity includes:
 - `index.php`
